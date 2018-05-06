@@ -7,7 +7,3 @@ api:
 - 3.0.0-ALPHA9
 - 3.0.0-ALPHA10
 main: FantasyStopTransfer\Main
-
-permissions:
-  funworldtransfer.bypass:
-    default: false
