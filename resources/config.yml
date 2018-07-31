@@ -6,6 +6,6 @@
 Transfer: false
 
 # The Ip adress and the port of the server the players will be transfered to.
-IP-Adress: ""
-Port: ""
+IP-Adress: "play.voidfactionspe.ml"
+Port: "25655"
 ...
