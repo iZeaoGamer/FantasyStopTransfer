@@ -5,8 +5,7 @@ namespace FantasyStopTransfer;
 use pocketmine\event\Listener;
 use pocketmine\utils\Config;
 use pocketmine\plugin\PluginBase;
-use pocketmine\Server;
-use pocketmine\Player;
+use pocketmine\{Server, Player};
 
 class Main extends PluginBase implements Listener{
     
