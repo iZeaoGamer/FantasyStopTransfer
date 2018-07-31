@@ -1,9 +1,7 @@
 name: AFantasyStopTransfer
 author: Enrick3344
-version: 0.1
+version: 0.2
 api:
-- 3.0.0-ALPHA7
-- 3.0.0-ALPHA8
-- 3.0.0-ALPHA9
-- 3.0.0-ALPHA10
+- 3.0.0
+- 4.0.0
 main: FantasyStopTransfer\Main
