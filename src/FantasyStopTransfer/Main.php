@@ -23,7 +23,7 @@ class Main extends PluginBase implements Listener{
         }
     }
     
-    public function transferPlayers(Player $players){
+    public function transferPlayers($players){
         $ipadress = $this->getConfig()->get("IP-Adress");
         $port = $this->getConfig()->get("Port");
         if($this->getConfig()->get("Transfer") == true){
